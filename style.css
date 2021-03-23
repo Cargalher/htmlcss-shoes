@@ -1,13 +1,30 @@
+/* Rule */
 *{
     box-sizing: border-box;
     margin: 0;
     padding: 0;
 }
-
-.shoes{
-   height: 100vh;
-    position: relative;
+/* Navigation Menu */
+.top {
+    padding-top: 100px;
+    padding-right: 50px;
+    font-size: 30px;
+    text-align: right;
+    color: black;
+    font-family: 'Rubik Mono One', sans-serif;
+   
 }
+a {
+    border: 1px solid white;
+    border-radius: 50%;
+    border-width: 20px;
+    text-decoration:none;
+    background-color: white;
+    color: black;
+    margin-left: 20px;
+}
+
+/* Main */
 .main{
     font-size: 70px;
     position: absolute;
@@ -16,9 +33,11 @@
     transform: translate(-50%, -50%);
     text-align: center;
     font-family: 'Rubik Mono One', sans-serif;
-   
-
 }
+.shoes{
+    height: 100vh;
+    position: relative;
+ }
 #red{
     background-color: red;
     color: yellow;
@@ -30,30 +49,7 @@
 }
 #yellow{
     background-color: yellow;
-    color:green;
-    
-}
-
-.top {
-    padding-top: 100px;
-    padding-right: 50px;
-    font-size: 30px;
-    text-align: right;
-    color: black;
-    font-family: 'Rubik Mono One', sans-serif;
-   
-}
-
-a {
-    border: 1px solid white;
-    border-radius: 50%;
-    border-width: 20px;
-    text-decoration:none;
-    background-color: white;
-    color: black;
-    margin-left: 20px;
-  
-   
+    color:green;   
 }
 
 
