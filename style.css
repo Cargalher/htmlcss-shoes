@@ -3,46 +3,46 @@
     margin: 0;
     padding: 0;
 }
-
+.shoes{
+   
+   height: 100vh;
+    position: relative;
+}
+.main{
+    font-size: 100px;
+    position: absolute;
+    top:50%;
+    left:50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
 
 #red{
     background-color: red;
- 
-  
+    
 }
 #green{
     background-color: green;
     
-   
 }
 #yellow{
     background-color: yellow;
     
-  
-}
-
-.shoes{
-    width: 1000px;
-    height: auto;
-    position: relative;
 }
 
 
 .image{
-   
-}
-
-h2{
-    font-size: 50px;
-    position: absolute;
-    bottom:5px;
-    left:500px;
-    color: black;
-    transform: translate(-50%, -50%);
+ 
+{
+.title_one&two {
+    font-size: 100px;
+    
 {   
-.yellow{
-    background-color: yellow; 
-}
+.title_three {
+        font-size: 100px;
+       
+    {   
+    
 
 
 
