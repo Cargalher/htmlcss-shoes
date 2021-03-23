@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
 }
+
 .shoes{
    
    height: 100vh;
@@ -15,6 +16,8 @@
     left:50%;
     transform: translate(-50%, -50%);
     text-align: center;
+    
+    
 }
 
 #red{
@@ -35,12 +38,13 @@
  
 {
 .title_one&two {
-    font-size: 100px;
+   display: inline-block;
+    
+    
     
 {   
 .title_three {
-        font-size: 100px;
-       
+        
     {   
     
 
